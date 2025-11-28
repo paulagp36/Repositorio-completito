@@ -1,5 +1,5 @@
 # Repositorio-completito
 
 
-([imagen1]/main/Océanos.jpg)
+![imagen1](/main/Océanos.jpg)
 
